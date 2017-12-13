@@ -1,0 +1,1 @@
+Projecte per provar els efectes del lazy loading
